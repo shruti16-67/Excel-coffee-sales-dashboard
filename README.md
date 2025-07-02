@@ -1,4 +1,4 @@
-#Coffee Sales Dashboard
+# Coffee Sales Dashboard
 
 A professional Excel-based dashboard project analyzing coffee sales performance using customer and product datasets. This solution leverages advanced Excel functions, PivotTables, charts, and slicers to deliver actionable insights and interactive filtering.
 
